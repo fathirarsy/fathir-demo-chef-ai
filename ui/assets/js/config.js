@@ -1,6 +1,6 @@
 const CONFIG = {
     // Ganti dengan API Key Gemini kamu
-    GEMINI_API_KEY: "AIzaSyAm9RVloWJsXZh5vUhVdHXalFG1VcQIsq0",
+    GEMINI_API_KEY: "AIzaSyBnSUoONiUiwppnyizdT93PLTiZjnOzWGE",
 
     // Ganti dengan Model Gemini kamu
     GEMINI_MODEL: "gemini-2.5-flash",
